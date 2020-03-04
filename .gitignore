@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+java-advanced-2017.iml
+out
+*.class
+__Test__Walk__/
